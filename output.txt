@@ -1,0 +1,3 @@
+Player: Logan 
+Attack: 20
+Defense: 10
